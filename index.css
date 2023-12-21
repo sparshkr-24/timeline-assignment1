@@ -32,7 +32,7 @@
   background-color: rgb(15, 119, 43);
   position: relative;
   left: -0.8rem;
-  top: 1rem;
+  top: 0.9rem;
 }
 
 .event__dot--mobile {
@@ -58,10 +58,9 @@
     }
 
     .event__dot {
-      height: 1.5rem;
-      width: 1.5rem;
       display: none;
     }
+
     .event__dot--mobile {
       display: block;
     }
